@@ -1,0 +1,143 @@
+
+body {
+    background: Beige;
+}
+
+
+h2 {
+    text-transform: uppercase;
+    padding: 20px;
+    text-align: center;
+    text-shadow:  0 0 10px blue, 0 0 20px yellow;
+    font-size: 100px;
+}
+
+
+p{
+    text-align: center;
+    font-size: 40px;
+    color:darkgreen;        
+    padding: 20px;
+    margin-right: auto;
+    margin-left: auto;  
+    width:18em;
+}
+
+
+
+/*list of items*/
+
+
+
+.item{
+    border: 2px solid;
+    margin: 11px;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 48%;
+    height: 48%; 
+}
+
+dt{
+    color:brown;
+    font-size: 30px;
+}
+
+img{
+    box-sizing: border-box;
+    width: 300px;
+    height: 300px;   
+}
+
+
+
+
+/*form*/
+
+#textbeforeform{
+    font-size: 25px;
+    width: 38em;
+}
+
+
+form{
+    margin-right: auto;
+    margin-left: auto;  
+    width:40em;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+fieldset{
+    margin-right: auto;
+    margin-left: auto; 
+    width: 38em;
+    padding: 10px;
+}
+
+input{
+    width: 10em;
+    height: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+.sub{
+    
+    width: 10em;
+    height: 30px;
+}
+
+
+/*table*/
+
+
+table{
+    caption-side: bottom;
+    margin: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 20em;
+    padding: 10px;
+}
+
+#titletable{
+    caption-side: top;
+    font-size: 35px;
+    color: darkmagenta;
+    }
+
+td{
+    padding: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
